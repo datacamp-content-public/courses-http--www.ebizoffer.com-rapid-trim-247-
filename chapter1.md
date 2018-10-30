@@ -43,7 +43,7 @@ rapid trim 247
 
 ---
 
-## Insert exercise title here
+## https://youtu.be/t37Bjtog6x4
 
 ```yaml
 type: VideoExercise
