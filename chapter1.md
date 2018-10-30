@@ -13,13 +13,13 @@ xp: 100
 skills: 2
 ```
 
-
+rapid trim 247
 
 `@instructions`
-
+rapid trim 247
 
 `@hint`
-
+rapid trim 247
 
 `@pre_exercise_code`
 ```{python}
